@@ -11,7 +11,7 @@ score = 0
 
 answer = input("what does CPU stands for? ")
 if answer.lower() == "central processing unit":
-    print("correct!")p
+    print("correct!")
     score+=1
 else:
     print("incorrect")
